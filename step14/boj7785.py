@@ -1,3 +1,5 @@
+# sorted 함수 : 정렬된 list 반환. 함수에서 reverse 필드로 order 설정 가능.
+
 n = int(input())
 
 people = set()
